@@ -11,9 +11,7 @@ Java
 
 Java Swing
 
-Programación Orientada a Objetos (POO)
-
-IntelliJ IDEA / NetBeans
+IntelliJ IDEA
 
 Git y GitHub
 
@@ -31,4 +29,4 @@ Limpieza y reinicio de operaciones
 
 ## Objetivo del proyecto
 
-Reforzar los conocimientos en Java SE, especialmente en el desarrollo de aplicaciones de escritorio, aplicando buenas prácticas de código y una estructura clara orientada a objetos.
+Reforzar los conocimientos en Java SE, especialmente en el desarrollo de aplicaciones de escritorio, aplicando buenas prácticas de código y una estructura clara.
